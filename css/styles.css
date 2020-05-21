@@ -216,6 +216,7 @@ a:hover {
   margin: 10px auto;
 }
 .btn2 {
+  color: grey;
   text-decoration: none;
   margin: auto;
 }
