@@ -215,8 +215,8 @@ a:hover {
   line-height: 2;
   margin: 10px auto;
 }
-.btn2 {
-  color: #3f3f44;
+a.btn2 {
+  color: #3c3c54;
   text-decoration: none;
   margin: auto;
 }
