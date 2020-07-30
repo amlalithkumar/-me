@@ -104,8 +104,7 @@ a:hover {
 }
 
 .han {
-  width: 25%;
-  height: 25%;
+  width: 20%;
   float: left;
   margin-right: 20px;
   position: relative;
@@ -113,31 +112,28 @@ a:hover {
 }
 
 .lc {
-  width: 25%;
-  height: 25%;
+  width: 20%;
   float: right;
   margin-left: 20px;
   margin-bottom: 20px;
   position: relative;
-  top: 20px;
+  top: -3px;
 }
 
 .fewd {
-  width: 25%;
-  height: 25%;
+  width: 20%;
   float: left;
   margin-right: 20px;
   position: relative;
-  top: 2px;
+  top: -20px;
 }
 
 .msw {
-  width: 25%;
-  height: 25%;
+  width: 20%;
   float: right;
   margin-left: 20px;
   position: relative;
-  top: 2px;
+  top: -20px;
 }
 
 .cme {
