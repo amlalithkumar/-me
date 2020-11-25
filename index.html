@@ -7,9 +7,16 @@
   <link rel="stylesheet" type="text/css" href="css/styles.css">
   <link rel="icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Philosopher&family=Roboto&family=Sacramento&display=swap" rel="stylesheet">
+<!-- Alert JS -->
+    <script>
+  function showAlert() {
+    var yourName=prompt("What's Your Name?");
+    alert ("Hello! " + yourName.slice(0,1).toUpperCase() + yourName.slice(1,name.length).toLowerCase() + ", I'm Lalith Kumar");
+  }
+  </script>
 </head>
 
-<body>
+<body onload="showAlert()">
   <div class="top-container">
     <img src="images\cloud.png" class="top_cloud" alt="top_cloud">
     <div class="about">
